@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Anu Verma",
     "section": "",
     "text": "I am originally from New Delhi, India, but have grown up moving around the world — living in six cities across four countries.\nI studied Mathematics and Economics at McGill University in Montreal, Canada. After graduating, I joined the Monetary and Capital Markets Department at the International Monetary Fund as Research Assistant, where I worked on projects relating to household inflation expectations and monetary policy transmission. These experiences deepened my interest in how uncertainty, communication, and expectations influence macroeconomic outcomes.\nIn August 2024, I moved to Providence to pursue my Ph.D. in Economics at Brown University. Outside of academics, I enjoy playing tennis and exploring new cities."
   },
@@ -11,12 +11,12 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Analyisis: Final Project\n\n\n\n\n\n\n\n\n\n\n\nMar 30, 2025\n\n\nAnu Verma\n\n\n\n\n\n\nNo matching items"
+    "text": "ECON 2020: Final Project\n\n\n\n\n\n\n\n\n\n\n\nMar 30, 2025\n\n\nAnu Verma\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/final_project.html",
     "href": "research/final_project.html",
-    "title": "Applied Economic Analyisis: Final Project",
+    "title": "ECON 2020: Final Project",
     "section": "",
     "text": "Distributional Dynamics of Household Inflation Expectations and Their Predictive Power\nThis project examines how the distribution of one-year-ahead household inflation expectations has evolved over time and whether its shape contains predictive information about future inflation beyond traditional measures like the mean or median. Using microdata from the University of Michigan’s Survey of Consumers, I construct expectation distributions segmented by demographics (e.g., income, age, education) and estimate their first three moments — mean, variance, and skewness."
   },
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Anu Verma",
     "section": "",
-    "text": "Hi! I am a Ph.D. student in Economics at Brown University, with interestes in international and macroeconomics.\nPlease feel free to get in touch, you can reach me at anu_verma.@brown.edu"
+    "text": "Hi! I am a Ph.D. student in Economics at Brown University, with interests in macroeconomics and international economics.\nPlease feel free to get in touch, you can reach me at anu_verma.@brown.edu"
   }
 ]
