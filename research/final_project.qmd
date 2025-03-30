@@ -1,5 +1,5 @@
 ---
-title: "Applied Economic Analyisis: Final Project"
+title: "ECON 2020: Final Project"
 author: Anu Verma
 date: "March 30, 2025"
 ---
