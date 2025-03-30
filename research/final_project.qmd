@@ -1,0 +1,9 @@
+---
+title: "Applied Economic Analyisis: Final Project"
+author: Anu Verma
+date: "March 30, 2025"
+---
+### Distributional Dynamics of Household Inflation Expectations and Their Predictive Power
+
+This project examines how the distribution of one-year-ahead household inflation expectations has evolved over time and whether its shape contains predictive information about future inflation beyond traditional measures like the mean or median. Using microdata from the University of Michigan’s Survey of Consumers, I construct expectation distributions segmented by demographics (e.g., income, age, education) and estimate their first three moments — mean, variance, and skewness.
+
