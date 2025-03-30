@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Anu Verma"
   favicon: logo.png
   navbar:
     left:
