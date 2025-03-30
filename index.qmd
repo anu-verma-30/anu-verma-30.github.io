@@ -10,10 +10,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/anu-verma30
+    - icon: file-text
+      text: CV
+      href: cv.pdf
 ---
 
 Hi! I am a Ph.D. student in Economics at Brown University, with interests in macroeconomics and international economics. 
 
 Please feel free to get in touch, you can reach me at [anu_verma.@brown.edu](mailto:anu_verma.@brown.edu)
 
-[Download my CV](cv.pdf){.btn .btn-primary}
