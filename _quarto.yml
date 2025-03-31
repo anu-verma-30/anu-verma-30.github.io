@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Anu Verma"
-  favicon: logo_final.png
+  favicon: logo_final.png?v=2
   navbar:
     left:
       - href: about.qmd
